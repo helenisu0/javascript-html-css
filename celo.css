@@ -1,0 +1,48 @@
+*{
+    font-family: 'Libre Baskerville', serif;
+}
+
+body{
+    margin: 0;
+}
+
+.header{
+    /* display: flex; */
+    height:auto;
+    /* justify-content: center;
+    align-items: center; */
+    width: 90em;
+    background-color: white;
+    /* flex-direction: row; */
+    /* position:fixed; */
+ 
+}
+
+.image-div{
+    
+    padding-left: 10%;
+}
+
+
+
+.nav-class{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+}
+.middle-text{
+    padding-top: 10%;
+    padding-left: 35%;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-text h1{
+    line-height: 1.6em;
+    font-size:40px;
+}
+
+
+

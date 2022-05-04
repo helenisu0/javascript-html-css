@@ -1,0 +1,87 @@
+
+
+.header_title{
+    display: flex;
+    
+}
+
+.header_title_two{
+    display:flex;
+}
+.header_content{
+    
+height: 105px;
+width: 506px;
+left: 148px;
+top: 228px;
+border-radius: nullpx;
+
+}
+.header_content h1{
+    position: absolute;
+width: 506px;
+height: 105px;
+left: 148px;
+top: 228px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 60px;
+
+color: #21243D;
+
+
+}
+.header_content p{
+    position: absolute;
+width: 497px;
+height: 66px;
+left: 148px;
+top: 373px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 23px;
+
+
+
+color: #21243D;
+
+}
+.header_content button{
+position: absolute;
+width: 208px;
+height: 47px;
+left: 148px;
+top: 477px;
+background: #FF6464;
+border-radius: 2px;
+
+}
+
+.header_image{
+    position: absolute;
+    width: 243px;
+    height: 243px;
+    left: 760px;
+    top: 210px;
+    
+    background: url(Ellipse.png);
+    
+
+}
+
+.header_content_two{
+    display: flex;
+    position: absolute;
+width: 1152px;
+height: 396px;
+left: 0px;
+top: 595px;
+
+background: #EDF7FA;
+}
